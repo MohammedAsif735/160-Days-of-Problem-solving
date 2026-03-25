@@ -1,6 +1,5 @@
 public class secondLargest {
     public static int getSecondLargest(int[] arr) {
-        // code here
         int largest = -1;
         int secLargest = -1;
         int size = arr.length;
